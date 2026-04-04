@@ -7,7 +7,7 @@ Ejecutar en la terminal:
 git clone https://github.com/jadururum/Actividad-2-Jade-Torres
 
 #Me posiciono en la carpeta del proyecto
-cd proyecto2026
+cd Actividad-2-Jade-Torres
 
 #Creo el entorno virtual
 py -m venv .venv
