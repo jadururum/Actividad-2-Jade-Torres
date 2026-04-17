@@ -14,7 +14,7 @@ py -m venv .venv
 
 #Activo el entorno
 .venv\Scripts\activate (windows)
-. .venv/bin/activate (Linux/Mac)
+. .venv/Scripts/activate (Linux/Mac)
 
 #Instalo dependencias
 pip install -r requirements.txt
